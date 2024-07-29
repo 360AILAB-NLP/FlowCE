@@ -1,0 +1,106 @@
+index	question	answer	category	image_path	source
+0	The process output (a + b) immediately after print('b') is executed three times.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/3.jpg	logical_judgment
+1	There is a requisition via text entry, then a direct purchase order will be created through text entry.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/13.jpg	logical_judgment
+2	If elements remain in the collection, exit the foreach loop and execute the statement just below the loop.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/18.jpg	logical_judgment
+3	In the enzyme production process depicted, the enzyme extraction step comes after the solid-state fermentation (SSF) step, and before the drying of the crude enzyme.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/20.jpg	logical_judgment
+4	A Customer obtain a Boarding Pass through a Ticket.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/24.jpg	logical_judgment
+5	Based on the flowchart, after Program security aggregate and prepare reports, the process proceed to Review by Admin.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/27.jpg	logical_judgment
+6	If a volunteer has completed the GoHM Volunteer App, they proceed to Fisrt Prison Visit.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/34.jpg	logical_judgment
+7	If the Termination Criterion is satisfied for a run, the process proceed to Designate Result for Run.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/37.jpg	logical_judgment
+8	The process allow for editing an equivalent tree diagram after it has been stored.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/38.jpg	logical_judgment
+9	When patient's Hb is 70-100g/L and they are a post-operative patient with acute MI, they should be transfused 1 unit of RBC and reassessed.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/45.jpg	logical_judgment
+10	Transcripts assembled before identifying introns via the junction alignment.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/52.jpg	logical_judgment
+11	In the UI design process, the final payment occur after the research phase.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/61.jpg	logical_judgment
+12	The update Expression occur after the for Loop Body if the Test Expression is False.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/67.jpg	logical_judgment
+13	According to the flowchart, if found is set to true, the process proceed to check if found = true.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/76.jpg	logical_judgment
+14	The process proceed to drop can after verifying that inserted >= price.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/78.jpg	logical_judgment
+15	The vacuum return to the power dock after the route is finished.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/81.jpg	logical_judgment
+16	When a nurse becomes available, the procedure continues with recording the patient's health status.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/100.jpg	logical_judgment
+17	In the Arc Hydrotools, Stream Segmentation occur before Stream Definition.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/110.jpg	logical_judgment
+18	If is benevolent, no need to worry.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/113.jpg	logical_judgment
+19	After generate ST, it can go back to MCC.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/117.jpg	logical_judgment
+20	The Qualified Lead leads to Intro Meeting.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/128.jpg	logical_judgment
+21	count-- come after checking if ch is 0-9.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/137.jpg	logical_judgment
+22	In the flowchart, rub hands should after Hands clean.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/138.jpg	logical_judgment
+23	The quality assessment come after aligning to the reference genome.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/143.jpg	logical_judgment
+24	In the flowchart, the step Cancel Order come after Notify Customer.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/145.jpg	logical_judgment
+25	After Disable SSO for FusionStorage, it comes with Disable SSO for FusionCompute	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/154.jpg	logical_judgment
+26	When Solder Paste Screen finished Printing, SMD should Pick & Place.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/155.jpg	logical_judgment
+27	When Selling Rates are determined, they should include B.C.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/160.jpg	logical_judgment
+28	If you attend practical sessions and watch live demonstrations, it will lead to listening to lectures and having group discussions.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/163.jpg	logical_judgment
+29	When you submit the order, it leads to deciding if you want a drink.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/166.jpg	logical_judgment
+30	When Activity 4 is completed, it immediately leads to Activity 2.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/167.jpg	logical_judgment
+31	When grades are set to GRADED, they are posted to everyone.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/172.jpg	logical_judgment
+32	When Adjust RamInit = 1, the next step is Adjust Init = 1	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/202.jpg	logical_judgment
+33	When Your Operation is completed and the answer to the decision Yes or No? is yes, the operation ends.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/206.jpg	logical_judgment
+34	When data is available, the next step is to process it.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/208.jpg	logical_judgment
+35	If the test expression of the loop is false, the next step is to execute the remaining body of the loop.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/209.jpg	logical_judgment
+36	When an IO Request is made to the Java API by the BaseImpl, the immediate consequence is an IO Response from the Java API to the Transformation Server.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/211.jpg	logical_judgment
+37	Before Kinetic Data is loaded, the VB Program needs to be started and the Main Interface Form is loaded.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/215.jpg	logical_judgment
+38	After slope steepness is determined, the soil samples are analyzed.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/220.jpg	logical_judgment
+39	When the sensitivity analysis and selective PTQ indicate poor performance or accuracy, try PTQ	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/221.jpg	logical_judgment
+40	Before placing two slices of bread, the toaster is set to the desired degree	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/235.jpg	logical_judgment
+41	If you decide to outsource, the app will be your core business.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/236.jpg	logical_judgment
+42	If the convergence check is completed, then mutation occurs.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/242.jpg	logical_judgment
+43	If a patient moves from the XrayArea to the WaitingRoomArea, then the patient is ready to exit the facility.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/244.jpg	logical_judgment
+44	Green Glass, Clear Class and Crystal Glass consists of all Glass.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/245.jpg	logical_judgment
+45	When the ReadKey node is reached, it immediately follows the WriteLine node.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/257.jpg	logical_judgment
+46	If you are over 40 years old and the difference between your age subtracted from 100 does not roughly equal the percentage of your holdings in stocks, then you should stick with the plan and you'll be fine.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/258.jpg	logical_judgment
+47	Before the preview area scan is performed at full magnification, the slide preview scan is validated.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/259.jpg	logical_judgment
+48	If motion_2 is started, then it leads to the 'Wait for Condition' step.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/267.jpg	logical_judgment
+49	If user-supplied format strings are not used, then the next step is to check if Python version is 3.6 or higher.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/273.jpg	logical_judgment
+50	Before idea prototyping, the evaluation/idea screening need passed.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/275.jpg	logical_judgment
+51	After the person is authenticated using the sensing data, the time-stamp needs to be checked 	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/278.jpg	logical_judgment
+52	The operation is approved, is a good idea.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/281.jpg	logical_judgment
+53	If N is incremented by 1, the next step is to print the sum.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/288.jpg	logical_judgment
+54	After receiving the invoice, submit the PO.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/289.jpg	logical_judgment
+55	Before reached balcony, wait for rescue.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/297.jpg	logical_judgment
+56	If Cell is founded, the process ends.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/299.jpg	logical_judgment
+57	If the microorganisms are stored in cryotubes, then they should be subcultured in Agar Sabouraud tubes.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/302.jpg	logical_judgment
+58	If the material passes the IQC (Incoming Quality Control), then it proceeds to Material Sawing.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/306.jpg	logical_judgment
+59	If sentences are passed through the regression model (MVCNN), they receive corresponding scores	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/311.jpg	logical_judgment
+60	Before a subject test to determine head shaking speed, facial photographs of 10 subjects are taken in ideal light conditions.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/325.jpg	logical_judgment
+61	Check permissions after an HTTP request is received.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/327.jpg	logical_judgment
+62	If 'Credentials or App-Only?' is answered with 'Credentials', the next step is to determine 'Office 365 or On-Premises?'.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/330.jpg	logical_judgment
+63	Write Sequence after one buffer is occupied.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/334.jpg	logical_judgment
+64	If the update version is more recent, then the next step is to discard the update.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/337.jpg	logical_judgment
+65	After order drink, it is still can order fries	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/347.jpg	logical_judgment
+66	If the sequence definition calls the end line, the next step is to process the loop statement.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/350.jpg	logical_judgment
+67	The patient needs follow-up before assign patient to doctor.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/358.jpg	logical_judgment
+68	If a Motion for New Trial is denied by the Georgia Court of Appeals, the next step is send the motion to Unitied States Supreme Court.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/359.jpg	logical_judgment
+69	When you fear for your life, you can open fire.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/361.jpg	logical_judgment
+70	Whether it's a successful or unsuccessful sale, one must first obtain the opportunity to buy.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/366.jpg	logical_judgment
+71	If it is the first Sunday in November, the immediate consequence is to test for 2:00 AM.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/375.jpg	logical_judgment
+72	After extracted list of elements from the resource using the expression from the search parameter, it's necessary to determine whether any more SearchParameter to process.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/380.jpg	logical_judgment
+73	The soybeans remove seed coats before boiling.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/386.jpg	logical_judgment
+74	If the insulation product is produced, then the next step is packaging.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/390.jpg	logical_judgment
+75	If A is greater than B, check if A is greater than C or if B is greater than C.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/394.jpg	logical_judgment
+76	The computer is on and an error message appears, perform a diagnosis.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/400.jpg	logical_judgment
+77	Before 6 person are excluded, there are 56 person in the data collection visit.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/407.jpg	logical_judgment
+78	When the expression equals to constant2, execute code block1	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/408.jpg	logical_judgment
+79	If error = 0, needs new condition enters the process.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/413.jpg	logical_judgment
+80	If an incoming order is received, the system will immediately assign a passenger to a driver.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/437.jpg	logical_judgment
+81	If the idea is approved, it leads to the 'Stuff' step.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/441.jpg	logical_judgment
+82	When the EEPROM is uninitialized, generate an Interrupted Commit.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/448.jpg	logical_judgment
+83	Finding the cure will build academic strength.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/451.jpg	logical_judgment
+84	Funds available leads to payment verified by card network.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/452.jpg	logical_judgment
+85	Before found umbrella, bring umbrella	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/453.jpg	logical_judgment
+86	Contact contractor when invoice is incorrect	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/456.jpg	logical_judgment
+87	If the default INI for EF is referenced by the IDE, then the EF is made available to the Call Block dialog.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/461.jpg	logical_judgment
+88	The TargetNet furnishes the action if the QNet proceeds with updating its network parameters.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/468.jpg	logical_judgment
+89	The issue, if identified in rank tracking, necessitates a pattern of decline enduring for over a month.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/476.jpg	logical_judgment
+90	If the login page shows an error message, then the account and password have been validated.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/479.jpg	logical_judgment
+91	The system sends a reminder email to the user when the invoice is flagged as paid.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/480.jpg	logical_judgment
+92	Existence of a shared session triggers the check for MAPI_NEW_SESSION.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/483.jpg	logical_judgment
+93	Wood, once split, is either crushed or redirected to a Splitter.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/491.jpg	logical_judgment
+94	If any sites are left, the process will end.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/498.jpg	logical_judgment
+95	If ch is between 0 and 9, then count is decremented by 1.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/131.jpg	logical_verification
+96	If a website did not include a patient grading scale for physicians, then it was excluded from the initial 300 websites.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/132.jpg	logical_verification
+97	After writing datosB in register IF2DB, write datosA in register IF2DA.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/84.jpg	logical_verification
+98	The process proceed from Activity 2 to Activity 3.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/87.jpg	logical_verification
+99	If the egg type is hardboiled, then the next step is to boil water.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/98.jpg	logical_verification
+100	After conducting the Wave Soldering Needed judgment, further Hand soldering Needed judgment can be made.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/155.jpg	logical_verification
+101	After checking convergence, can find cost for each chromosome.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/242.jpg	logical_verification
+102	You can print sum if N > 50.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/288.jpg	logical_verification
+103	All the action based on the  flowchart leads to open fire.	Yes	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/361.jpg	logical_verification
+104	We can only enter this site by transport network links.	No	logical_verification	flowchart_benchmark/flowchart_benchmark/logical_verification/498.jpg	logical_verification

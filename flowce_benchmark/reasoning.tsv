@@ -1,0 +1,101 @@
+index	question	answer	category	image_path	source
+0	If the system generates a lot of logs, what will be done next?	Collect logs.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/1.jpg	reasoning
+1	What should be done after we complete the final inspection of the product?	Odor.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/2.jpg	reasoning
+2	If op is not 1, then what value will it be?	0.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/4.jpg	reasoning
+3	When a latte is selected, what will be done next?	Add frothed milk.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/8.jpg	reasoning
+4	What operation will be performed if the credit verification fails?	search for altemative payment.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/9.jpg	reasoning
+5	What should we do before executing A5?	A4.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/10.jpg	reasoning
+6	If the stop criteria are not met, what will be done?	Item Pool.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/39.jpg	reasoning
+7	Before executing 'Ballgown', what will be done?	StringTie.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/42.jpg	reasoning
+8	If it cannot connect after 3 seconds, what will be done next?	Forced Light-Sleep.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/48.jpg	reasoning
+9	When the vehicle stops, what will be done next?	Pedestrian Green Light.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/51.jpg	reasoning
+10	After completing the Hypothesis Generation part, what part will be done next?	Hypothesis Evaluation.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/55.jpg	reasoning
+11	After checking the time, where should he be if it's before 4 pm?	He is in School.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/59.jpg	reasoning
+12	What should we do in the beginning?	Clean all palmled surfaces.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/70.jpg	reasoning
+13	What should we ultimately execute?	Checking the Configurations.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/72.jpg	reasoning
+14	I'm in a hurry, how should I choose at this moment?	Request a cab.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/82.jpg	reasoning
+15	What will happen when the oxygen concentration decreases?	Hair Loss.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/92.jpg	reasoning
+16	When the execution conditions are met, what will be executed?	Loop Body.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/93.jpg	reasoning
+17	When the answer to the question is 'Yes', what result will be achieved after taking the action?	Result 2.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/94.jpg	reasoning
+18	If EXIT LOADER is False, what operation will be performed?	PERFORM 1 OR MORE LOADER FUNCTIONS.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/95.jpg	reasoning
+19	In Anchor 3, what will be executed after the RSSI is received?	Sends RSSI of anchors 1, 2 and 3 to anchor 4.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/96.jpg	reasoning
+20	Where will the Pseudo-code be sent to?	Code Converter.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/108.jpg	reasoning
+21	What should be done before the course?	Trainee identifies development requirement.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/119.jpg	reasoning
+22	If the age is under 40, what operation will be performed?	Not included in program.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/120.jpg	reasoning
+23	If there are alterations here, what will be executed?	Determine the Modernization Installer and Date.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/125.jpg	reasoning
+24	If the password entered on the keyboard is correct, what will be executed?	Door Open.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/127.jpg	reasoning
+25	If the Vendor is not on the AVL, what will be executed?	Run financial checks.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/129.jpg	reasoning
+26	If a girl is unwilling to wait, what will she do?	Girl Marry To Other.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/133.jpg	reasoning
+27	If the food is in the fridge for less than three days, what operation will be carried out?	Heat up the food.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/135.jpg	reasoning
+28	What operations will be carried out when asking for a latte?	Write details on cup.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/140.jpg	reasoning
+29	What will happen if the Buffer CRC is not OK?	Data Corruption.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/150.jpg	reasoning
+30	What will happen if users are not allowed to register?	Display 'registration form unavailable'.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/171.jpg	reasoning
+31	What will be executed if the protection fails?	Recalc CRC for all pages.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/175.jpg	reasoning
+32	What will be executed when it involves shipping?	print invoice and UPS label.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/176.jpg	reasoning
+33	If the target head is less than the max head, what will be executed?	Increment head.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/177.jpg	reasoning
+34	If there is no dryer, what operation will be performed?	hang to dry.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/187.jpg	reasoning
+35	What will the client's execution lead to?	API Gateway.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/216.jpg	reasoning
+36	If i%2=0, what are the values of p and q respectively?	p=1; q=0.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/224.jpg	reasoning
+37	What does Parallel(XOR) execute?	A5 and A6.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/226.jpg	reasoning
+38	What will be done if there are not enough support staff to maintain live chat online?	Feedback Tool.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/230.jpg	reasoning
+39	When sepsis is suspected but denied, what actions will be taken?	Monitor clinical condition;reevaluate for possible sepsis if clinically indicated.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/232.jpg	reasoning
+40	When cycle2 encounters an error, what will be executed?	cycle1.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/237.jpg	reasoning
+41	After the 2010 substantive session, what will be held?	Open consultations.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/246.jpg	reasoning
+42	What should I do on the 29th day?	Drinking Test 1 (DT 1).	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/251.jpg	reasoning
+43	What needs to be reviewed after the title review?	Abstract review.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/261.jpg	reasoning
+44	If it's high energy, what will it execute?	Bio-fuel.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/263.jpg	reasoning
+45	If facility is not found, what will be executed?	do not transfer patient.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/264.jpg	reasoning
+46	If convergence is reached or the maximum iteration count is reached, what will be executed?	Quit and Save SR image.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/272.jpg	reasoning
+47	If stakeholders do not accept the change, what will be executed?	Data gathering & Analysing.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/277.jpg	reasoning
+48	After the execution of the Follow-up module, what template will we execute?	Analysis.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/279.jpg	reasoning
+49	What will be done after error recovery?	Diagnostic Message.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/280.jpg	reasoning
+50	What should be done after waiting for a signal?	Cam Plate On.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/286.jpg	reasoning
+51	What will be executed if manual drawing is confirmed?	draw.io.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/287.jpg	reasoning
+52	If the score is 70 points, what grade will be achieved?	B.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/290.jpg	reasoning
+53	What will be done after the first private tutoring session?	Research.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/296.jpg	reasoning
+54	What will be done after the Research?	Final Draft.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/296.jpg	reasoning
+55	After a Write operation, what will be executed if there is indeed a cache hit?	Write data into cache block.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/303.jpg	reasoning
+56	What does the hypothalamus execute after being stimulated by the hormone TRH?	Pituitary.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/305.jpg	reasoning
+57	If there is no delay, what will be continued?	Snooze.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/312.jpg	reasoning
+58	What is the wholly-owned subsidiary of Creative Global Technology Holdings Limited?	Creative Global Technology (BVI) Limited (CGT BVI).	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/313.jpg	reasoning
+59	If no request is made above, what will be executed?	Serve jail sentence.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/314.jpg	reasoning
+60	What is the ultimate outcome?	New Node.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/322.jpg	reasoning
+61	If 'cond' is negative, what result will be executed?	action2.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/328.jpg	reasoning
+62	What will be executed after the approval of the WMF Board?	Local Chapter.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/335.jpg	reasoning
+63	What will happen when baking soda mixture is added to vinegar?	Result: Awesome volcano.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/345.jpg	reasoning
+64	Where will the call dialed initially be routed to?	HOME.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/354.jpg	reasoning
+65	What will be executed after we have done something?	Flowchart (Collapsed).	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/357.jpg	reasoning
+66	If you can speak a foreign language, what will be continued to be asked of you?	Which ones?	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/360.jpg	reasoning
+67	How will the final approach be proposed?	Clustering strategies within categories on the basis of a voting system.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/363.jpg	reasoning
+68	What will be executed if the car is not in the middle of the door?	Wait 40s.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/364.jpg	reasoning
+69	What will be executed if the departure point is not 2km away from the origin?	Drove 2km.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/368.jpg	reasoning
+70	What will be executed if the model is accurate?	Write up results.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/369.jpg	reasoning
+71	What will happen after the card is verified as valid?	available funds.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/370.jpg	reasoning
+72	What will happen after the card is verified as valid?	How many spiral arms are there?	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/379.jpg	reasoning
+73	If the number of tweets is 3, what will be executed?	Perform Sentiment Analysis & graphs.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/392.jpg	reasoning
+74	What will be executed when the loop ends?	Exchange a(i) and a(i (min)).	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/398.jpg	reasoning
+75	I do indeed drive more than 15,000 miles every year. What will be the next step?	BUY.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/399.jpg	reasoning
+76	What will be the ultimate operation?	Step.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/401.jpg	reasoning
+77	If it's not covered, what will be executed?	Issuance of Certificate of Eremption.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/417.jpg	reasoning
+78	If this is not a new issue, what will be done next?	Resolve Issue.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/421.jpg	reasoning
+79	What will be executed if x is less than y?	y is bigger than x.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/426.jpg	reasoning
+80	What will the final result be executed?	Node Content.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/428.jpg	reasoning
+81	What will be executed as the final result of the process?	Termination.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/430.jpg	reasoning
+82	After checking that the upgrade is successful, what will be executed?	End.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/434.jpg	reasoning
+83	If adding the title is correct, what will be executed?	<section>*.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/435.jpg	reasoning
+84	Both the request and the response are handled by which part?	Controllers.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/436.jpg	reasoning
+85	If the CommitAbility cannot be afforded, what will be executed?	Controllers.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/444.jpg	reasoning
+86	Which part operates the 'Config.Server' section?	MCC Editor.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/447.jpg	reasoning
+87	If the judgment is correct, what additional operations will be performed?	THEN, SEND DATA.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/449.jpg	reasoning
+88	If the credit check is fine, what will be executed?	Check accounts receivable balance.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/454.jpg	reasoning
+89	When someone says 'Hello Bob, how are you?', what would be the response?	I am good thanks!	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/458.jpg	reasoning
+90	If the Idea testing performs poorly, what will be executed?	Idea prototyping.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/459.jpg	reasoning
+91	After searching for 5-6 relatively unique terms used in your page title tags, your site still ranks within the top 10-20 results.	You don't have a penalty; you've probably just lost some rankings. Get more high quality, non-manipulative links and review your SEO efforts.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/460.jpg	reasoning
+92	What will be executed if mocha coffee is selected?	add chocolate powder.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/466.jpg	reasoning
+93	What image is being preprocessed?	Landsat 8 OLI Raw Image.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/471.jpg	reasoning
+94	When the time is longer and the price is lower, what will be chosen?	Coach.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/474.jpg	reasoning
+95	What will be executed when the acceleration is 2.5?	Acceleration >= 3.7 m/s^2.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/481.jpg	reasoning
+96	What will be done for a transfer that is not covered by insurance?	Patient agrees to pay uncovered bils.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/486.jpg	reasoning
+97	What will be executed if it does not meet the stop criteria?	N=N+1.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/489.jpg	reasoning
+98	What will be executed if the Blocks are arbitrary?	Counter proposal.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/494.jpg	reasoning
+99	After the CommitAbility is confirmed as fine, what will be executed?	Start Ability Task.	reasoning	flowchart_benchmark/flowchart_benchmark/reasoning/497.jpg	reasoning
